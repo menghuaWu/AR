@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "com.unity.probuilder": "3.0.8",
+    "com.unity.shadergraph": "1.1.6-preview",
+    "com.unity.assetbundlebrowser": "1.5.0",
+    "com.unity.cinemachine": "2.1.13"
+  }
+}
